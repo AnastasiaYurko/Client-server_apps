@@ -1,0 +1,11 @@
+items:
+- computer
+- printer
+- scanner
+- xerox
+price:
+  computer: 1000$
+  printer: 60$
+  scanner: 30$
+  xerox: 45$
+quantity: 4
