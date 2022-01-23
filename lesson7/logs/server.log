@@ -1,0 +1,247 @@
+2022-01-23 12:58:47,099 - INFO       - server - Получен запрос на соединение с ('127.0.0.1', 52303)
+2022-01-23 12:58:47,140 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:47 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:47,345 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:47 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:47,563 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:47 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:47,764 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:47 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:47,968 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:47 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:48,171 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:48 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:48,372 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:48 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:48,576 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:48 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:48,792 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:48 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:49,008 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:49 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:49,224 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:49 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:49,427 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:49 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:49,630 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:49 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:49,832 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:49 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:50,049 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:50 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:50,252 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:50 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:50,455 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:50 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:50,659 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:50 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:50,860 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:50 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:51,063 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:51 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:51,265 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:51 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:51,471 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:51 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:51,672 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:51 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:51,875 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:51 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:52,077 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:52 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:52,282 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:52 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:52,497 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:52 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:52,713 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:52 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:52,917 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:52 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:53,133 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:53 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:53,335 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:53 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:53,537 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:53 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:53,741 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:53 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:53,943 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:53 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:54,160 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:54 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:54,364 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:54 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:54,580 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:54 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:54,783 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:54 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:54,987 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:54 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:55,192 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:55 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:55,394 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:55 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:55,597 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:55 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:55,801 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:55 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:56,003 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:56 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:56,208 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:56 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:56,425 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:56 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:56,642 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:56 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:56,859 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:56 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:57,076 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:57 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:57,293 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:57 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:57,511 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:57 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:57,727 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:57 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:57,930 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:57 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:58,132 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:58 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:58,335 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:58 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:58,553 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:58 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:58,771 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:58 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:58,974 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:58 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:59,175 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:59 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:59,378 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:59 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:59,595 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:59 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:58:59,798 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:58:59 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:00,015 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:00 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:00,232 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:00 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:00,435 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:00 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:00,636 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:00 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:00,838 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:00 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:01,041 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:01 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:01,244 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:01 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:01,446 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:01 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:01,648 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:01 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:01,850 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:01 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:02,053 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:02 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:02,255 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:02 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:02,457 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:02 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:02,660 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:02 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:02,863 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:02 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:03,065 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:03 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:03,270 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:03 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:03,472 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:03 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:03,675 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:03 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
+2022-01-23 12:59:03,879 - INFO       - log - Функция sendMessageClient вызвана из модуля __main__ с аргументами:
+args: ('Sun Jan 23 12:59:03 2022\n',)
+kwargs: {}. Обращение к декорируемой функциибыло осуществлено со следующим контекстом ['                    s_client.send(sendMessageClient(timestr))\n']
